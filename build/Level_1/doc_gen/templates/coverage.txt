@@ -1,0 +1,10 @@
+<b>Geocoded Data Coverage</b>
+Years: %s
+Donors: %s
+Total Projects: %s
+Geocoded Projects: %s
+Locations: %s
+Total Disbursements: %s
+Total Commitments: %s
+Geocoded Disbursements: %s
+Geocoded Commitments: %s

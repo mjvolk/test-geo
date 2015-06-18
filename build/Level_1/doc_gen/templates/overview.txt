@@ -1,0 +1,4 @@
+<b>Overview</b><br/><br/>
+
+Locations of projects in DRC’s AMP were geocoded using information gathered from in-country donor offices. For details about AidData's geocoding methodology please see the included CodeBook PDF.<br/>
+All tabular data files are provided as TAB seperated files (tsv).<br/>

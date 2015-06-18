@@ -1,0 +1,3 @@
+<b>Using Data in a GIS</b><br/><br/>
+
+AidData has developed an Introduction to ArcGIS Training Module (https://drive.google.com/folderview?id=0Bysb0tDCQWQxd05LQUstWTlRTjQ&usp=sharing) . This training is oriented towards new users of spatial information with the purpose of improving understanding and ability to use spatial information. The instructional tutorial will help users to join spatial information with other data, calculate new variables in ArcGIS, and create cartographic outputs.<br/>

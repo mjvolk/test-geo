@@ -1,0 +1,44 @@
+{
+
+  	"datapackage_version": "1.0-beta.10",
+  	"version": "1.0",
+  
+  	"licenses": [{
+		"url": "http://opendatacommons.org/licenses/by/",
+		"name": "Open Data Commons Attribution",
+		"version": "1.0",
+		"id": "odc-pddl"
+	}],
+
+  	"sources": [{
+		"name": "DRC",
+		"web": ""
+	}],
+	
+	"maintainers": [{
+		"name": "AidData Data Team",
+		"email": "data@aiddata.org",
+		"web": "http://aiddata.org"
+	}],
+	
+	"publishers": [{
+		"name": "AidData",
+		"email": "info@aiddata.org",
+		"web": "http://aiddata.org"
+	}],
+	
+  "spatial": [{
+  		"name":"DRC",
+  		"east": "25.00",
+  		"north": "0.00",
+  		"projection": "WGS84"
+	}],
+	
+	"data_set_preamble": "DRC",
+	"data_type": "Geocoded_Research_Release",
+	"processing_level": "Level_1",
+	"source_type": "Recipient System",
+	"source_subtype": "Aid Management Platform",
+	"source_link": ""
+	
+}

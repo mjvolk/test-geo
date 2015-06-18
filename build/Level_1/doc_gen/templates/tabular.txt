@@ -1,0 +1,16 @@
+<b>Using Data in Spreadsheets</b><br/><br/>
+
+Microsoft Excel has known limitations when working with TSV and CSV files that have character encodings like UTF8 (the character encoding of the AidData CSV Data).To avoid potential problems with character encodings, please use the “From Text”command on the Data menu when opening the CSV files. Double-clicking on the files to open in Excel, and/or saving them as CSV from Excel may result in character encoding problems. 
+<br/><br/>
+For instructions, see this link:<br/>
+http://office.microsoft.com/enus/excelhelp/importorexporttexttxtorcsvfilesHP010099725.aspx#BMimport_data_from_a_text_file_by_openi
+<br/><br/>
+Additionally, AidData provides all final tabular data as TAB separated files. If asked by your software which delimiter to use, you should select TAB. <b> PLEASE BE CAREFUL TO ONLY USE ONE DELIMITER (not for example, comma and TAB)</b>
+<br/><br/>
+The four (4) files in the research release are related as follows:<br/>
+1) The projects.tsv table is the main table. It contains one row per project. The unique id is the project_id field.
+<br/>
+2) The locations.tsv table is the locations table. It contains one row per location. It is related to the projects table by the project_id fields in each table. Each project may have many locations. The unique id is the project_location_id field.
+<br/>
+3) The transactions.tsv table is the transactions (financials) table. It contains one row per transaction. It is related to the projects table by the project_id fields in each table. Each project may have many transactions. There is no unique field for the transactions table.
+<br/>

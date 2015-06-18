@@ -1,0 +1,9 @@
+<b>Caveats</b><br/><br/>
+
+*Because of licensing restrictions, we cannot include the GIS files for these boundaries along with the release. Please visit http://www.fao.org/geonetwork/srv/en/metadata.show?id=12691 for these files.<br/><br/>
+*This dataset was not activity coded. AidData sector codes are crosswalked from the sector designations in the AMP database. See crosswalk table in the metadata folder.<br/><br/>
+*Financials are deflated to USD2011, with the exception of transactions >= 2013, which are reported in current USD<br/><br/>
+*MJSECTOR 1 was cross-walked to AidData Purpose Codes. No other sector/purpose/activity code cross-walking was performed<br/><br/>
+*13 World Bank projects were identified as being cancelled in their documentation<br/><br/>
+*Projects locations of precision code 7 (Unknown Location) were not geocoded, so there will be now precision code 7 locations in the dataset. The projects themselves are still included.<br/><br/>
+*No disbursement data was used for geocoding (please see the $0 disbursement figure in the summary statistics)<br/><br/>
