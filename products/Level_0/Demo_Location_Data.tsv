@@ -1,0 +1,5 @@
+project_id	geoname_id	precision_code	place_name	latitude	longitude	location_type_code	geoname_adm_code	geoname_adm_name
+SOM/000017	8220543	5	Puntland	9	49	RGN	SO	Somalia
+COL433	3689717	4	Departamento de Arauca	6.66667	-71	ADM1	CO	Colombia
+87274001	2243973	1	Yoff	14.75742	-17.46462	PPL	SN|01	Senegal|Dakar
+8729932188	226074	8	Republic of Uganda	1.25	32.5	PCLI	UG	Uganda
